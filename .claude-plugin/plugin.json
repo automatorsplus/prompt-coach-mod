@@ -1,0 +1,19 @@
+{
+  "name": "prompt-coach",
+  "version": "1.0.0",
+  "description": "/coach scores a prompt on goal, context and done, says what to fix, and hands you a better version to send or edit.",
+  "author": {
+    "name": "Automators+",
+    "url": "https://github.com/automatorsplus"
+  },
+  "homepage": "https://github.com/automatorsplus/prompt-coach-mod",
+  "repository": "https://github.com/automatorsplus/prompt-coach-mod",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "mod",
+    "prompting",
+    "coach"
+  ],
+  "types": "./types/index.d.ts"
+}

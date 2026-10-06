@@ -1,0 +1,16 @@
+{
+  "name": "prompt-coach-mod",
+  "description": "Prompt Coach, a Claude Code mod from the Automators+ community.",
+  "owner": {
+    "name": "Automators+",
+    "url": "https://github.com/automatorsplus"
+  },
+  "plugins": [
+    {
+      "name": "prompt-coach",
+      "source": "./",
+      "description": "/coach scores a prompt on goal, context and done, says what to fix, and hands you a better version to send or edit.",
+      "version": "1.0.0"
+    }
+  ]
+}
